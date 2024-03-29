@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👋 Hi, I’m @lyflyf07
+- 👋 Hi, I’m @lyf07
 - 👀 I’m interested in NLP, especially in fields related to LLMs!
 - 🌱 I’m currently learning machine learning and basic programming scales!
 - 💞️ I’m looking to collaborate on certain research projects in the future!
